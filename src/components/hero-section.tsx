@@ -19,7 +19,7 @@ export function HeroSection() {
         <div className="max-w-4xl mx-auto animate-fade-in-up">
         
           {/* Main Heading */}
-          <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-foreground mb-6 leading-tight">
+          <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-foreground mb-10 leading-tight">
             <span className="gradient-text">ElderCare+</span>
             <br />
             <span className="text-3xl md:text-4xl lg:text-5xl font-medium">
