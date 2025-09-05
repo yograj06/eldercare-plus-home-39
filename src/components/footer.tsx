@@ -99,15 +99,15 @@ export function Footer() {
             <div className="space-y-3">
               <div className="flex items-center space-x-3">
                 <Phone className="w-4 h-4 text-primary" />
-                <span className="text-sm text-muted-foreground">+1 (555) 123-4567</span>
+                <span className="text-sm text-muted-foreground">+91-8763082185</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="w-4 h-4 text-primary" />
-                <span className="text-sm text-muted-foreground">support@eldercare.com</span>
+                <span className="text-sm text-muted-foreground">theacers@gmail.com</span>
               </div>
               <div className="flex items-center space-x-3">
                 <MapPin className="w-4 h-4 text-primary" />
-                <span className="text-sm text-muted-foreground">123 Healthcare Ave, City, State 12345</span>
+                <span className="text-sm text-muted-foreground">VSSUT Burla, Odisha, 768018</span>
               </div>
             </div>
           </div>
