@@ -194,21 +194,6 @@ export function FeaturesSection() {
             )
           })}
         </div>
-
-        {/* Bottom CTA */}
-        <div className="text-center mt-16 animate-fade-in-up" style={{ animationDelay: '0.8s' }}>
-          <p className="text-lg text-muted-foreground mb-6">
-            Ready to experience comprehensive senior care?
-          </p>
-          <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-            <button className="bg-primary hover:bg-primary-hover text-primary-foreground px-8 py-4 rounded-full font-semibold text-lg hover-glow focus-ring transition-smooth">
-              Start Free Trial
-            </button>
-            <button className="border-2 border-primary/50 text-primary hover:bg-primary/10 px-8 py-4 rounded-full font-semibold text-lg hover-glow focus-ring transition-smooth">
-              Schedule Demo
-            </button>
-          </div>
-        </div>
       </div>
     </section>
   )
