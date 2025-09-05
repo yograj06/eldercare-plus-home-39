@@ -20,7 +20,6 @@ export function HeroSection() {
           {/* Badge */}
           <div className="inline-flex items-center space-x-2 bg-primary/10 backdrop-blur-sm border border-primary/20 rounded-full px-4 py-2 mb-8">
             <Star className="w-4 h-4 text-primary" />
-            <span className="text-sm font-medium text-primary">Trusted by 10,000+ Senior Citizens</span>
           </div>
 
           {/* Main Heading */}
@@ -49,18 +48,6 @@ export function HeroSection() {
                 <Sparkles className="ml-2 w-5 h-5 group-hover:rotate-12 transition-transform" />
               </Button>
             </GetStartedDialog>
-            <Button 
-              variant="outline" 
-              size="lg"
-              className="border-2 border-white/30 text-white hover:bg-white/10 px-8 py-4 text-lg font-semibold rounded-full hover-glow focus-ring transition-smooth backdrop-blur-sm group"
-              onClick={() => {
-                // Demo functionality - could link to video or demo page
-                console.log("Watch Demo clicked")
-              }}
-            >
-              <Play className="mr-2 w-5 h-5 group-hover:scale-110 transition-transform" />
-              Watch Demo
-            </Button>
           </div>
 
           {/* Features Preview */}

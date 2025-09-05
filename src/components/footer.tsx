@@ -191,7 +191,7 @@ export function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
         <div className="flex flex-col md:flex-row items-center justify-between">
           <div className="text-sm text-muted-foreground mb-4 md:mb-0">
-            © 2024 ElderCare+. All rights reserved. | Designed with ❤️ for Senior Citizens
+            © 2025 ElderCare+. All rights reserved. | Designed with ❤️ by The Acers.
           </div>
           
           {/* Social Links */}
